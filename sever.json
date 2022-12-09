@@ -89,25 +89,25 @@
             "comment": "台湾1",
             "ip": "lp1.cpalm.org",
             "port": 11451,
-            "flag": "cn"
+            "flag": "tw"
         }, 
         {
             "comment": "台湾2",
             "ip": "lp2.cpalm.org",
             "port": 11451,
-            "flag": "cn"
+            "flag": "tw"
         },
         {
             "comment": "台湾3",
             "ip": "122.116.141.58",
             "port": 11451,
-            "flag": "cn"
+            "flag": "tw"
         },	
         {
             "comment": "美国",
             "ip": "joinsg.net",
             "port": 11453,
-            "flag": "cn"
+            "flag": "us"
         }
     ]
 }
